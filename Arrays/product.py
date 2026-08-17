@@ -37,5 +37,6 @@ print(product_except_self([1, 2, 3, 4]))  # Output: [24, 12, 8, 6]
    - i = 2: answer[2] = 2 * 4 = 8, postfix = 4 * 3 = 12
    - i = 1: answer[1] = 1 * 12 = 12, postfix = 12 * 2 = 24
    - i = 0: answer[0] = 1 * 24 = 24, postfix = 24 * 1 = 24
+   Resulting answer array after postfix calculation: [24, 12, 8, 6]
    Final answer array: [24, 12, 8, 6]"""
 
