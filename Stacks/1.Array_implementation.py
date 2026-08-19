@@ -54,7 +54,7 @@ my_stack.pop()
 my_stack.pop()
 my_stack.print_stack()
 #Courses
-#Andrei's
+#Artificial Intelligence
 
 print(my_stack.peek())
 #Courses
